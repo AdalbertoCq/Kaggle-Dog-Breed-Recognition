@@ -7,5 +7,6 @@ Testing CNN models:
     * Transfer Learning, no fine tuning validation accuracy: 85%
     * Fine tunning validation accuracy: 73%.
   * InceptionResNetV2: [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
+    * Transfer Learning, no fine tuning validation accuracy: 80%
   
 Used data augmentation and tranfer learning. For the latter, tested both methods fine tuning and just CNN pretrainned weitghs.
